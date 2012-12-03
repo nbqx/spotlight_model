@@ -1,0 +1,3 @@
+module SpotlightModel
+  VERSION = "0.0.1"
+end
